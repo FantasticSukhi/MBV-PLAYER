@@ -1,15 +1,3 @@
-<h2 align="center">
-    ─˹ʀɪʏᴧ ꭙ ᴍᴜsɪᴄ˼─
-
-</h2>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+𝚁𝙸𝚈𝙰+𝙼𝚄𝚂𝙸𝙲+𝚁𝙴𝙿𝙾+;ㅤ+𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+𝙼𝚄𝚂𝙸𝙲+𝙱𝙾𝚃;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+𝗧𝗘𝗔𝗠+𝗥𝗜𝗬𝗔)](https://github.com/ksdofficial8/Riya_music)
-
-
-
-<p align="center">
-  <img src="https://files.catbox.moe/n4vivz.jpg">
-</p>
 
 
 
@@ -61,7 +49,7 @@
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/ksdofficial8/Riya_music && cd `
+`git clone https://github.com/FantasticSukhi/MBV-PLAYER && cd `
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
