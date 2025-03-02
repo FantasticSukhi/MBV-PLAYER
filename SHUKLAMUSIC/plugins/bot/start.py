@@ -27,40 +27,9 @@ from strings import get_string
 
 
 
-YUMI_PICS = [
-"https://files.catbox.moe/n4vivz.jpg",
-"https://files.catbox.moe/n4vivz.jpg",
-"https://files.catbox.moe/n4vivz.jpg",
-"https://files.catbox.moe/n4vivz.jpg",
-"https://files.catbox.moe/n4vivz.jpg",
-"https://files.catbox.moe/n4vivz.jpg",
-"https://files.catbox.moe/n4vivz.jpg",
-"https://files.catbox.moe/n4vivz.jpg",
-"https://files.catbox.moe/n4vivz.jpg",
-"https://files.catbox.moe/n4vivz.jpg",
-"https://files.catbox.moe/n4vivz.jpg",
-"https://files.catbox.moe/n4vivz.jpg",
-"https://files.catbox.moe/n4vivz.jpg",
-"https://files.catbox.moe/n4vivz.jpg",
-"https://files.catbox.moe/n4vivz.jpg",
-"https://files.catbox.moe/n4vivz.jpg",
-"https://files.catbox.moe/n4vivz.jpg",
-"https://files.catbox.moe/n4vivz.jpg",
-"https://files.catbox.moe/n4vivz.jpg",
-"https://files.catbox.moe/n4vivz.jpg",
-"https://files.catbox.moe/n4vivz.jpg",
-"https://files.catbox.moe/n4vivz.jpg",
-"https://files.catbox.moe/n4vivz.jpg",
-"https://files.catbox.moe/n4vivz.jpg",
-"https://files.catbox.moe/n4vivz.jpg",
-"https://files.catbox.moe/n4vivz.jpg",
-"https://files.catbox.moe/n4vivz.jpg",
-"https://files.catbox.moe/n4vivz.jpg",
-"https://files.catbox.moe/n4vivz.jpg",
-
+YUMI_PICS =
+"https://vault.pictures/p/08641f944b7b45ee90634dc44e2f85d4",
 ]
-
-
 
 @app.on_message(filters.command(["start"]) & filters.private & ~BANNED_USERS)
 @LanguageStart
